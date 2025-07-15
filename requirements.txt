@@ -1,0 +1,10 @@
+langchain
+langchainhub
+unstructured
+pymupdf
+tqdm
+langchain-community 
+pymupdf 
+streamlit 
+chromadb
+
